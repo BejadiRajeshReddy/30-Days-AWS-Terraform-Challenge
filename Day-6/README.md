@@ -1,8 +1,8 @@
-# Day 6 - AWS Terraform Challenge
+# Day 6 - File Structure
 
 ## Overview
 
-On Day 6 of the 30-Day AWS Terraform Challenge, the focus is on creating and managing AWS resources using Terraform. This includes defining providers, variables, outputs, and leveraging local values for better configuration management.
+On Day 6 of the 30-Day AWS Terraform Challenge, the focus is on File Structure. This includes defining providers, variables, outputs, and leveraging local values for better configuration management.
 
 ## Files in the Directory
 

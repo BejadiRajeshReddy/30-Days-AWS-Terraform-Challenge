@@ -2,9 +2,9 @@ output "ec2_id" {
   value = aws_instance.web.*.id # Outputting all EC2 instance IDs
 }
 
-output "s3_bucket_name" {
-  value = aws_s3_bucket.name.bucket # Outputting the S3 bucket name
-}
+# output "s3_bucket_name" {
+#   value = aws_s3_bucket.name.bucket # Outputting the S3 bucket name
+# }
 
 
 
