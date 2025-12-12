@@ -8,3 +8,6 @@
 # *.tfvars
 *.tfvars.json
 .terraform/
+
+# PEM files
+*.pem
