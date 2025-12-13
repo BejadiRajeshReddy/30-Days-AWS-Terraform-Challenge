@@ -23,3 +23,5 @@ locals {
     echo "<p>Private IP: $(hostname -I)</p>" >> /var/www/html/index.html
   EOF
 }
+
+

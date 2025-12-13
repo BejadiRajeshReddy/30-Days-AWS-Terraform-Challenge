@@ -20,3 +20,4 @@ provider "aws" {
   region = var.secondary_region
   alias  = "secondary"
 }
+
